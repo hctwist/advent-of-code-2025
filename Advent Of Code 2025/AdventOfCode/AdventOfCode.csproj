@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="AdventOfCode.Framework" Version="2.4.1" />
+      <PackageReference Include="AdventOfCode.Framework" Version="2.5.0" />
     </ItemGroup>
 
 </Project>
